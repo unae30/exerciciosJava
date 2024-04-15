@@ -1,0 +1,5 @@
+Para descobrir qual interruptor liga qual lâmpada, você deve fazer o seguinte:
+
+Ative um interruptor e aguarde um momento. Desligue-o e ative um segundo interruptor. 
+Dirija-se à sala. A lâmpada que está desligada mas ainda quente corresponde ao primeiro interruptor, 
+a lâmpada acesa ao segundo interruptor, e a lâmpada que está apagada e fria ao terceiro interruptor.
